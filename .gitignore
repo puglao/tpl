@@ -1,0 +1,5 @@
+.devcontainer/*
+**/.DS_Store
+template.tpl
+values.yaml
+output.yaml
